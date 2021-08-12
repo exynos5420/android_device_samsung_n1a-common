@@ -228,8 +228,8 @@
         <path name="verb-normal" />
         <ctl name="SPK Switch" value="1" />
         <ctl name="Speaker Digital Volume" value="127" />
-        <ctl name="SPKOUTL Input 1 Volume" value="40" />
-        <ctl name="SPKOUTR Input 1 Volume" value="40" />
+        <ctl name="SPKOUTL Input 1 Volume" value="50" />
+        <ctl name="SPKOUTR Input 1 Volume" value="50" />
     </path>
 
     <path name="earpiece">
@@ -275,7 +275,7 @@
     <path name="voice-headphones">
         <path name="headphones" />
         <ctl name="Noise Gate Switch" value="0" />
-        <ctl name="HPOUT1 Digital Volume" value="108" />
+        <ctl name="HPOUT1 Digital Volume" value="120" />
         <ctl name="HPOUT1L Input 1 Volume" value="32" />
         <ctl name="HPOUT1R Input 1 Volume" value="32" />
         <ctl name="HPOUT1L Input 2 Volume" value="32" />
